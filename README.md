@@ -8,7 +8,7 @@ Requisitos:
 
 :white_circle: *Template* do *site* oficial 
 
-![](C:\Users\PICHAU\Desktop\site.gif)
+![site](https://user-images.githubusercontent.com/72312529/126048916-98fe7065-e15a-4bb8-ab22-a512489e2161.gif)
 
 
 
@@ -16,11 +16,10 @@ Requisitos:
 
 :white_circle: Cadastre seu *e-mail* para receber promoções 
 
-![image-20210717171907454](C:\Users\PICHAU\AppData\Roaming\Typora\typora-user-images\image-20210717171907454.png)
-
+![image](https://user-images.githubusercontent.com/72312529/126048932-099e49ec-e75a-4582-8fd2-15312c14981c.png)
 :white_circle: ​Dados no *localstorage*
 
-![image-20210717172152428](C:\Users\PICHAU\AppData\Roaming\Typora\typora-user-images\image-20210717172152428.png)
+![image](https://user-images.githubusercontent.com/72312529/126048934-6e6f2a39-7890-42b4-b9f9-a179b5bb079d.png)
 
 ## 
 
